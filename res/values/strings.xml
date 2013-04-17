@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name"> Compras </string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="add_compras"> Realizar Compras </string>
+    <string name="lista_compras"> Mostrar Compras</string>
+    <string name="add_item"><b>Adicione um Item</b></string>
+	<string name="add_qtd_item"><b>Adicione a quantidade do item</b></string>
+	<string name="item_select"> %1s </string>
+	<string name="qtd_item_select"> %1s </string>
+    
+</resources>
